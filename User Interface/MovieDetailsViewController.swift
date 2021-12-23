@@ -1,9 +1,7 @@
-
 import UIKit
 import SDWebImage
 import youtube_ios_player_helper
-import CloudKit
-import Alamofire
+
 
 class MovieDetailsViewController: UIViewController {
     

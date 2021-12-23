@@ -1,13 +1,6 @@
-//
-//  TVDetailViewController.swift
-//  MyTMDB
-//
-//  Created by Орест Дерзкий on 05.12.2021.
-//
-
 import UIKit
 import SDWebImage
-import SwiftUI
+
 
 class TVDetailViewController: UIViewController {
     
